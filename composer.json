@@ -1,0 +1,20 @@
+{
+    "name": "enlivenapp/vision",
+    "description": "Lightweight template engine with auto-escaping, extends, includes, filters, and custom tags",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "enlivenapp",
+            "email": "mw@enlivenapp.com"
+        }
+    ],
+    "require": {
+        "php": "^8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Enlivenapp\\Vision\\": "src/"
+        }
+    }
+}
