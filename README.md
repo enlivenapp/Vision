@@ -1,3 +1,9 @@
+[![Version](http://poser.pugx.org/enlivenapp/vision/version)](https://packagist.org/packages/enlivenapp/vision)
+[![License](http://poser.pugx.org/enlivenapp/vision/license)](https://packagist.org/packages/enlivenapp/vision)
+[![Suggesters](http://poser.pugx.org/enlivenapp/vision/suggesters)](https://packagist.org/packages/enlivenapp/vision)
+[![PHP Version Require](http://poser.pugx.org/enlivenapp/vision/require/php)](https://packagist.org/packages/enlivenapp/vision)
+[![Monthly Downloads](https://poser.pugx.org/enlivenapp/vision/d/monthly)](https://packagist.org/packages/enlivenapp/vision)
+
 # Vision
 
 Lightweight, framework-agnostic PHP template engine with auto-escaping, template inheritance, includes, filters, and custom tags.
