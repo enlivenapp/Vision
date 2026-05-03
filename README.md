@@ -1,8 +1,12 @@
-[![Version](http://poser.pugx.org/enlivenapp/vision/version)](https://packagist.org/packages/enlivenapp/vision)
-[![License](http://poser.pugx.org/enlivenapp/vision/license)](https://packagist.org/packages/enlivenapp/vision)
-[![Suggesters](http://poser.pugx.org/enlivenapp/vision/suggesters)](https://packagist.org/packages/enlivenapp/vision)
-[![PHP Version Require](http://poser.pugx.org/enlivenapp/vision/require/php)](https://packagist.org/packages/enlivenapp/vision)
-[![Monthly Downloads](https://poser.pugx.org/enlivenapp/vision/d/monthly)](https://packagist.org/packages/enlivenapp/vision)
+[![Stable? Not Quite Yet](https://img.shields.io/badge/stable%3F-not%20quite%20yet-blue?style=for-the-badge)](https://packagist.org/packages/enlivenapp/vision)
+[![License](https://img.shields.io/packagist/l/enlivenapp/vision?style=for-the-badge)](https://packagist.org/packages/enlivenapp/vision)
+[![PHP Version](https://img.shields.io/packagist/php-v/enlivenapp/vision?style=for-the-badge)](https://packagist.org/packages/enlivenapp/vision)
+[![Monthly Downloads](https://img.shields.io/packagist/dm/enlivenapp/vision?style=for-the-badge)](https://packagist.org/packages/enlivenapp/vision)
+[![Total Downloads](https://img.shields.io/packagist/dt/enlivenapp/vision?style=for-the-badge)](https://packagist.org/packages/enlivenapp/vision)
+[![GitHub Issues](https://img.shields.io/github/issues/enlivenapp/Vision?style=for-the-badge)](https://github.com/enlivenapp/Vision/issues)
+[![Contributors](https://img.shields.io/github/contributors/enlivenapp/Vision?style=for-the-badge)](https://github.com/enlivenapp/Vision/graphs/contributors)
+[![Latest Release](https://img.shields.io/github/v/release/enlivenapp/Vision?style=for-the-badge)](https://github.com/enlivenapp/Vision/releases)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-blue?style=for-the-badge)](https://github.com/enlivenapp/Vision/pulls)
 
 # Vision
 
