@@ -1,11 +1,9 @@
-[![Stable v1](https://img.shields.io/badge/stable%3F-not%20quite%20yet-blue?style=for-the-badge)](https://packagist.org/packages/enlivenapp/vision)
+[![Latest Release](https://img.shields.io/github/v/release/enlivenapp/Vision?style=for-the-badge)](https://github.com/enlivenapp/Vision/releases)
 [![License](https://img.shields.io/packagist/l/enlivenapp/vision?style=for-the-badge)](https://packagist.org/packages/enlivenapp/vision)
 [![PHP Version](https://img.shields.io/packagist/php-v/enlivenapp/vision?style=for-the-badge)](https://packagist.org/packages/enlivenapp/vision)
 [![Monthly Downloads](https://img.shields.io/packagist/dm/enlivenapp/vision?style=for-the-badge)](https://packagist.org/packages/enlivenapp/vision)
 [![Total Downloads](https://img.shields.io/packagist/dt/enlivenapp/vision?style=for-the-badge)](https://packagist.org/packages/enlivenapp/vision)
 [![GitHub Issues](https://img.shields.io/github/issues/enlivenapp/Vision?style=for-the-badge)](https://github.com/enlivenapp/Vision/issues)
-[![Contributors](https://img.shields.io/github/contributors/enlivenapp/Vision?style=for-the-badge)](https://github.com/enlivenapp/Vision/graphs/contributors)
-[![Latest Release](https://img.shields.io/github/v/release/enlivenapp/Vision?style=for-the-badge)](https://github.com/enlivenapp/Vision/releases)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-blue?style=for-the-badge)](https://github.com/enlivenapp/Vision/pulls)
 
 # Vision
@@ -14,7 +12,7 @@ A lightweight, framework-agnostic PHP twig-like syntax template engine with auto
 
 ## Features
 
-- Output escaped by default, untrusted values can't slip into your HTML
+- Output escaped by default, so untrusted values can't slip into your HTML
 - Templates never execute PHP; only variables, literals, comparisons, filters, and registered tags run
 - Inheritance and includes keep your layouts and partials DRY
 - Built-in filters plus custom filters and tags for your own helpers
