@@ -51,8 +51,8 @@ All tests pass against Vision v0.1.0.
 
 | Test | Result |
 |------|--------|
-| Simple array iteration | PASS — rendered red, green, blue |
-| Array of objects/arrays | PASS — rendered name/age table |
+| Simple array iteration | PASS - rendered red, green, blue |
+| Array of objects/arrays | PASS - rendered name/age table |
 | Empty collection (no output) | PASS |
 | Non-iterable (no output) | PASS |
 
@@ -93,9 +93,9 @@ All tests pass against Vision v0.1.0.
 
 | Test | Result |
 |------|--------|
-| Simple include (inherits parent scope) | PASS — `partial_message` rendered |
-| Include with `with` data | PASS — `item_name` and parent `title` both rendered |
-| Missing include (silent) | PASS — no output, no error |
+| Simple include (inherits parent scope) | PASS - `partial_message` rendered |
+| Include with `with` data | PASS - `item_name` and parent `title` both rendered |
+| Missing include (silent) | PASS - no output, no error |
 
 ## 9. Template Inheritance
 
